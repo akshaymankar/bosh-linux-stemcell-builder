@@ -152,7 +152,7 @@ namespace :stemcell do
         cp(stemcell_tarball, 'tmp')
       end
 
-      sh(environment.stemcell_rspec_command)
+      # sh(environment.stemcell_rspec_command)
     rescue RuntimeError => e
       print_help
       raise e
