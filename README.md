@@ -1,3 +1,7 @@
+# WARNING
+
+This fork is meant to be used for [project-mach](https://github.com/akshaymankar/mach).
+
 # bosh-linux-stemcell-builder
 
 Tools for creating stemcells.
